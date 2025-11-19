@@ -6,7 +6,7 @@ Este projeto faz parte da Fase 1 do Programa de Pós-graduação em Inteligênci
 
 🔗 Acesso Público ao Assistente no NotebookLM
 
-👉 [Link](https://notebooklm.google.com/notebook/07b1be85-36fb-4f64-90f4-3383b70df119)
+👉 [Notebook-Projeto TESTFORCE](https://notebooklm.google.com/notebook/07b1be85-36fb-4f64-90f4-3383b70df119)
 
 📄 Documentos utilizados na base de conhecimento
 
